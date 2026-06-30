@@ -1,4 +1,4 @@
-# ATM Simulator
+# ATM SYSTEM
 
 A simple command-line interface (CLI) banking application written in Python. It allows users to perform basic transactions after authenticating with a PIN code.
 
